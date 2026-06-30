@@ -1,6 +1,6 @@
 ---
 name: "html-screenshot-skill"
-description: "一个将 HTML 截图为高清 PNG 文件的 Skill，完美嵌入 `guizang-social-card-skill` 工作流，用于生成公众号封面、海报、卡片等设计图。"
+description: "一个将 HTML 截图为高清 PNG 文件的 Skill，可以嵌入 `guizang-social-card-skill` 工作流，用于生成公众号封面、海报、卡片等设计图。"
 version: 1.0.0
 Update date: 2026-06-28
 ---
